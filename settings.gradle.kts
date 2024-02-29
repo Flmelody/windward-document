@@ -1,2 +1,2 @@
-rootProject.name = "windward-document"
+rootProject.name = "windward-flame"
 
